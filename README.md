@@ -1,2 +1,2 @@
 # Notes
-It's for interview preparation
+## Time, tide and JavaScript wait for none!
